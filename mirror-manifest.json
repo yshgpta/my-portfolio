@@ -1,0 +1,362 @@
+{
+  "https://www.yashgupta.in/": {
+    "bytes": 366561,
+    "content_type": "text/html",
+    "path": "index.html",
+    "status": 200
+  },
+  "https://www.yashgupta.in/Yash-Gupta.pdf": {
+    "bytes": 122280,
+    "content_type": "application/pdf",
+    "path": "resources/Yash Resume.pdf",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/006b646b74369548.js": {
+    "bytes": 131200,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/006b646b74369548.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/0213e755aca0d275.js": {
+    "bytes": 29093,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/0213e755aca0d275.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/15cb800ad5b7ba48.js": {
+    "bytes": 27850,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/15cb800ad5b7ba48.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/172cfd6b8068c395.js": {
+    "bytes": 23503,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/172cfd6b8068c395.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/1c2a2aa039a9009a.js": {
+    "bytes": 85417,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/1c2a2aa039a9009a.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/1ec71f24fdcc7b3f.js": {
+    "bytes": 53242,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/1ec71f24fdcc7b3f.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/25fe83e1c1aa05ee.js": {
+    "bytes": 35372,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/25fe83e1c1aa05ee.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/2a04ff55099c3f07.js": {
+    "bytes": 87363,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/2a04ff55099c3f07.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/33c97eb5a3b5c1b8.js": {
+    "bytes": 15581,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/33c97eb5a3b5c1b8.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/4cdf8e99feacc58d.css": {
+    "bytes": 14136,
+    "content_type": "text/css",
+    "path": "_next/static/chunks/4cdf8e99feacc58d.css",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/50afeeebfedbe634.js": {
+    "bytes": 3817,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/50afeeebfedbe634.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/54bb9dc23c34c8f5.js": {
+    "bytes": 71228,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/54bb9dc23c34c8f5.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/58c9e930333673ad.js": {
+    "bytes": 43462,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/58c9e930333673ad.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/657f7cdf38330723.js": {
+    "bytes": 111044,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/657f7cdf38330723.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/664b76db7174d1af.js": {
+    "bytes": 62178,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/664b76db7174d1af.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/734d181bd70739ec.js": {
+    "bytes": 43462,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/734d181bd70739ec.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/7fb9801b67e624a8.js": {
+    "bytes": 68720,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/7fb9801b67e624a8.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/877af7b43a9a9d8b.js": {
+    "bytes": 18122,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/877af7b43a9a9d8b.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/8aa0efca034f1bca.js": {
+    "bytes": 282,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/8aa0efca034f1bca.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/a6dad97d9634a72d.js": {
+    "bytes": 112594,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/a6dad97d9634a72d.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/b613c3cec3a17e4c.js": {
+    "bytes": 27721,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/b613c3cec3a17e4c.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/bf595a9f97d404bb.css": {
+    "bytes": 126173,
+    "content_type": "text/css",
+    "path": "_next/static/chunks/bf595a9f97d404bb.css",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/dbc2c2e6c034aaad.js": {
+    "bytes": 213850,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/dbc2c2e6c034aaad.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/e53d6216faa84615.js": {
+    "bytes": 37258,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/e53d6216faa84615.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/chunks/turbopack-bcc0d3e443491419.js": {
+    "bytes": 9910,
+    "content_type": "text/javascript",
+    "path": "_next/static/chunks/turbopack-bcc0d3e443491419.js",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/03fc1b4a8d284b5e-s.p.af4fcd24.woff2": {
+    "bytes": 40240,
+    "content_type": "font/woff2",
+    "path": "_next/static/media/03fc1b4a8d284b5e-s.p.af4fcd24.woff2",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2": {
+    "bytes": 10120,
+    "content_type": "font/woff2",
+    "path": "_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2": {
+    "bytes": 10052,
+    "content_type": "font/woff2",
+    "path": "_next/static/media/99e609270109b47d-s.p.64b9304e.woff2",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2": {
+    "bytes": 10128,
+    "content_type": "font/woff2",
+    "path": "_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/blog-icon.webp": {
+    "bytes": 8100,
+    "content_type": "image/webp",
+    "path": "_next/static/media/blog-icon.webp",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/effe91970fc4db64-s.p.19510058.woff2": {
+    "bytes": 10060,
+    "content_type": "font/woff2",
+    "path": "_next/static/media/effe91970fc4db64-s.p.19510058.woff2",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/fe83cf2ab39e9c57-s.p.442acfff.woff2": {
+    "bytes": 11620,
+    "content_type": "font/woff2",
+    "path": "_next/static/media/fe83cf2ab39e9c57-s.p.442acfff.woff2",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/githubLogo.b0146bbe.webp": {
+    "bytes": 7798,
+    "content_type": "image/webp",
+    "path": "_next/static/media/githubLogo.b0146bbe.webp",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/instagramLogo.png": {
+    "bytes": 3104,
+    "content_type": "image/png",
+    "path": "_next/static/media/instagramLogo.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/linkedinLogo.97fb7c9f.webp": {
+    "bytes": 5906,
+    "content_type": "image/webp",
+    "path": "_next/static/media/linkedinLogo.97fb7c9f.webp",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/myimage.47d5d29d.jpg": {
+    "bytes": 80576,
+    "content_type": "image/jpeg",
+    "path": "_next/static/media/myimage.47d5d29d.jpg",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/resumeLogo.avif": {
+    "bytes": 4943,
+    "content_type": "image/avif",
+    "path": "_next/static/media/resumeLogo.avif",
+    "status": 200
+  },
+  "https://www.yashgupta.in/_next/static/media/whatsappLogo.avif": {
+    "bytes": 2479,
+    "content_type": "image/avif",
+    "path": "_next/static/media/whatsappLogo.avif",
+    "status": 200
+  },
+  "https://www.yashgupta.in/audio/Yash.mp3": {
+    "bytes": 7680,
+    "content_type": "audio/mpeg",
+    "path": "audio/Yash.mp3",
+    "status": 200
+  },
+  "https://www.yashgupta.in/audio/ui-sounds/click.wav": {
+    "bytes": 70478,
+    "content_type": "audio/x-wav",
+    "path": "audio/ui-sounds/click.wav",
+    "status": 200
+  },
+  "https://www.yashgupta.in/favicon.ico": {
+    "bytes": 17417,
+    "content_type": "image/x-icon",
+    "path": "favicon.ico",
+    "status": 200
+  },
+  "https://www.yashgupta.in/music/Leanin.mp3": {
+    "bytes": 2331962,
+    "content_type": "audio/mpeg",
+    "path": "music/Leanin.mp3",
+    "status": 200
+  },
+  "https://www.yashgupta.in/music/lofimusic.mp3": {
+    "bytes": 5349075,
+    "content_type": "audio/mpeg",
+    "path": "music/lofimusic.mp3",
+    "status": 200
+  },
+  "https://www.yashgupta.in/playground": {
+    "bytes": 98283,
+    "content_type": "text/html",
+    "path": "playground/playground.5ce75e5acf1b.html",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/blog-profile.png": {
+    "bytes": 716301,
+    "content_type": "image/png",
+    "path": "project/blog-profile.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/covid-19-tracker.png": {
+    "bytes": 862016,
+    "content_type": "image/png",
+    "path": "project/covid-19-tracker.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/face-recogniser.png": {
+    "bytes": 145106,
+    "content_type": "image/png",
+    "path": "project/face-recogniser.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/github-portfolio.png": {
+    "bytes": 809050,
+    "content_type": "image/png",
+    "path": "project/github-portfolio.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/group-expense-tracker.png": {
+    "bytes": 226134,
+    "content_type": "image/png",
+    "path": "project/group-expense-tracker.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/instagram-profile.png": {
+    "bytes": 233587,
+    "content_type": "image/png",
+    "path": "project/instagram-profile.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/linkedin-profile.png": {
+    "bytes": 291815,
+    "content_type": "image/png",
+    "path": "project/linkedin-profile.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/little-memory-gallery.png": {
+    "bytes": 655507,
+    "content_type": "image/png",
+    "path": "project/little-memory-gallery.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/object-detector.png": {
+    "bytes": 691020,
+    "content_type": "image/png",
+    "path": "project/object-detector.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/socials/instagram.png": {
+    "bytes": 3104,
+    "content_type": "image/png",
+    "path": "project/socials/instagram.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/socials/resume.png": {
+    "bytes": 324981,
+    "content_type": "image/png",
+    "path": "project/socials/resume.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/student-manager.png": {
+    "bytes": 48271,
+    "content_type": "image/png",
+    "path": "project/student-manager.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/project/weather-inspector.png": {
+    "bytes": 291075,
+    "content_type": "image/png",
+    "path": "project/weather-inspector.png",
+    "status": 200
+  },
+  "https://www.yashgupta.in/resources/Yash%20Resume.pdf": {
+    "bytes": 122280,
+    "content_type": "application/pdf",
+    "path": "resources/Yash Resume.pdf",
+    "status": 200
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "yashgupta-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio mirror deployable on Vercel"
+}

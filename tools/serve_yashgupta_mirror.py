@@ -13,7 +13,7 @@ import requests
 HOST = "127.0.0.1"
 PORT = 5174
 MANIFEST_PATH = Path("mirror-manifest.json")
-ORIGIN = "https://www.yashgupta.in"
+ORIGIN = "https://yshgpta.vercel.app"
 OLD_SITE_PREFIX = Path("downloads/yashgupta.in/www.yashgupta.in")
 
 
